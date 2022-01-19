@@ -1,0 +1,55 @@
+body {
+	background-color: #5CDB95;
+	font-family: "Century Gothic", sans-serif;
+	font-size: 18px;
+	float: left;
+	margin: 0px;
+	color: #05386B;
+}
+
+header {
+	background-color: #8EE4AF;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #05386B;
+	text-transform: uppercase;
+	margin-bottom: 100px;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+section {
+	float: left;
+	width:  70%;
+	margin-bottom: 100px;
+}
+aside {
+	background-color: #05386B;
+	float: right;
+	color: #EDF5E1;
+	width: 25%;
+	text-align: center;
+}
+
+footer {
+	clear:  both;
+	background-color: #8EE4AF;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+/* CSS box model 
+	margin
+	padding
+	border
+*/
+
+.box {
+	background: pink;
+	width: 300px;
+	margin: 500px;
+}
